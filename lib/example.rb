@@ -12,7 +12,7 @@ puts phrase
 puts phrase
 puts phrase
 
-def say_hello_tent_times
+def say_hello_ten_times
   phrase = "Hello World!"
   puts phrase
   puts phrase
@@ -26,4 +26,4 @@ def say_hello_tent_times
   puts phrase
 end
 
-say_hello_tent_times
+say_hello_ten_times
