@@ -24,3 +24,4 @@ def say_hello_tent_times
   puts phrase
   puts phrase
   puts phrase
+end
